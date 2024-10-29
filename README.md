@@ -1,5 +1,7 @@
 # 💫 About Me
-<br><br>👋 Hello! I’m Ali, a passionate Fullstack Developer currently honing my skills at SALT, where I’m diving deep into JavaScript, TypeScript, Node.js, and modern web technologies.<br><br>With a background in Computer Engineering, I thrive in problem-solving and building scalable, maintainable web applications. My focus is on Fullstack JavaScript development, and I enjoy working with both frontend and backend technologies.<br><br>I am always eager to learn new things and continuously improve. Feel free to connect with me or explore my projects!<br><br>🚀 Available for new opportunities after my Fullstack Bootcamp at SALT ends, where I will be working as a consultant.
+<br><br>👋 Hello! 
+
+I’m Ali, a passionate Fullstack Developer currently honing my skills at SALT, where I’m diving deep into JavaScript, TypeScript, Node.js, and modern web technologies.<br><br>With a background in Computer Engineering, I thrive in problem-solving and building scalable, maintainable web applications. My focus is on Fullstack JavaScript development, and I enjoy working with both frontend and backend technologies.<br><br>I am always eager to learn new things and continuously improve. Feel free to connect with me or explore my projects!<br><br>🚀 Available for new opportunities after my Fullstack Bootcamp at SALT ends, where I will be working as a consultant.
 
 
 ## 🌐 Socials:
